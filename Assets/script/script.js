@@ -14,6 +14,9 @@ function flipCard(){
         //second click
         hasFlipCard = true;
         secondCard = this;
+
+
+        //do cards match?
     }
 }
 
